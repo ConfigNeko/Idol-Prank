@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Video Call 1",
+    "link_video": "https://github.com/ConfigNeko/Idol-Prank/raw/main/faces/video/video_call1.mp4",
+    "link_image": "https://example.com/link2"
+  },
+  {
+    "name": "Video Call 2",
+    "link_video": "https://github.com/ConfigNeko/Idol-Prank/raw/main/faces/video/video_call2.mp4",
+    "link_image": "https://example.com/link2"
+  },
+  {
+    "name": "Video Call 2",
+    "link_video": "https://github.com/ConfigNeko/Idol-Prank/raw/main/faces/video/video_call2.mp4",
+    "link_image": "https://example.com/link2"
+  }
+]
